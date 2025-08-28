@@ -1,7 +1,5 @@
 # blog
-
-# Expense-tracker-
-This  is a Frontend project 
+This  is a simple Frontend project 
 
 details:
 
